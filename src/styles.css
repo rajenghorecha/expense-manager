@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+/* Import fonts */
+@import url('https://fonts.googleapis.com/css?family=Abel');
+@import "@angular/material/prebuilt-themes/deeppurple-amber.css";
+
+html, body{height: 100%; width: 100%; margin: 0px; padding: 0px; font-family: 'Abel', sans-serif !important;}
+section .form-card {width: 280px; max-width: 100%; margin: 1rem auto;}
+mat-form-field {width: 280px; max-width: 100%; margin: 5px auto;}

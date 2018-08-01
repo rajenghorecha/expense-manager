@@ -1,0 +1,8 @@
+
+.welcome-message {
+  display: block;
+  width: 340px;
+  max-width: 100%;
+  text-align: center;
+  padding: 10px;
+}
